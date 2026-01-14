@@ -43,7 +43,7 @@
     ├─ lectures/                 # 강의 
     │  ├─ databricks-inside
     │  ├─ azure-databricks
-    │  ├─ databricks-hands-on
+    │  └─ databricks-hands-on
     ├─ datasets/                 # 샘플 데이터셋
     ├─ scripts/                  # 유틸 스크립트
     ├─ resources.md              # 외부 참고 리소스 링크 모음
