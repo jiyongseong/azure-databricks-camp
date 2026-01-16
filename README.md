@@ -118,7 +118,10 @@
 
 ## 📚 참고 리소스
 
-*   Databricks 공식 문서, 튜토리얼, 블로그(추가 예정)
+*   Databricks 공식 문서, 튜토리얼, 블로그(지속적으로 추가 예정)
+* [Apache Spark](https://spark.apache.org/)
+* [Databricks](https://www.databricks.com/)
+* [Azure Databricks 설명서](https://learn.microsoft.com/ko-kr/azure/databricks/)
 
 ## 🤝 기여 방법 
 
