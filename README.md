@@ -90,7 +90,8 @@
 ## 🎓 Lecture 
 
 ### Databricks Inside
-*  [Databricks의 여정(오픈 소스에서 데이터 지능형 플랫폼까지)](/lectures/databricks-inside/databricks-history.md)
+*  [Databricks의 여정 (오픈 소스에서 데이터 지능형 플랫폼까지)](/lectures/databricks-inside/databricks-history.md)
+* [Apache Spark 구성 요소 아키텍처](/lectures/databricks-inside/spark-components.md)
 
 ### Azure Databricks (작성 중)
 
