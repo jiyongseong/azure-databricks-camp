@@ -169,6 +169,8 @@ Transformation은 shuffle이 필요한 경우, 필요 없는 경우로 나눌 �
 
 Shuffle이 필요 없는 transformation(Narrow Dependency라고도 합니다)은 성능 비용이 매우 낮습니다.
 
+<img src='./images/narrow-transformation.png'>
+
 즉, **기존 파티션 내부에서만 처리**됩니다.
 
 아래 transformation들은 shuffle이 발생하지 않습니다:
@@ -193,6 +195,8 @@ rdd2 = rdd.map(lambda x: x * 2)
 
 #### 3.1.2 Shuffle이 필요한 Transformation
 Shuffle이 필요한 transformation(Wide Dependency라고도 합니다)은 반드시 **데이터 재배치**가 일어납니다.
+
+<img src='./images/wide-transformation.png'>
 
 다음 연산들은 모두 shuffle을 발생시킵니다:
 

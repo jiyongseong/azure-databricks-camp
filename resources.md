@@ -1,4 +1,5 @@
 # Resources
 
-* 외부 참고 리소스 링크 모음
-* 업데이트 예정입니다
+* [Apache Spark](https://spark.apache.org/)
+* [Databricks](https://www.databricks.com/)
+* [Azure Databricks 설명서](https://learn.microsoft.com/ko-kr/azure/databricks/)
