@@ -42,8 +42,7 @@
     │  └─ lab6-databricks-sql-bi/
     ├─ lectures/                 # 강의 
     │  ├─ databricks-inside
-    │  ├─ azure-databricks
-    │  └─ databricks-hands-on
+    │  └─ azure-databricks
     ├─ datasets/                 # 샘플 데이터셋
     ├─ scripts/                  # 유틸 스크립트
     ├─ resources.md              # 외부 참고 리소스 링크 모음
@@ -125,7 +124,7 @@
 
 ## 🤝 기여 방법 
 
-이슈 제안, 문서/코드 개선은 **Issue** 또는 **Pull Request**로 자유롭게 참여해 주세요. 저장소 거버넌스와 기여 가이드라인은 오픈소스 관례를 따릅니다. 
+이슈 제안, 문서/코드 개선은 **Issue** 또는 **Pull Request**로 자유롭게 참여해 주세요. 
 
 ## 📄 라이선스 
 
