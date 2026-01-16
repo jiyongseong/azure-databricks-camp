@@ -87,21 +87,19 @@
 *   외부 BI 연동(예: Power BI) 및 성능 팁
 
 
-## 🎓 Lecture 
+## 🎓 강좌 
+
+### Azure Databricks
+
+* [Azure Databricks Data Intelligence Platform이란?](/lectures/azure-databricks/what-is-azure-databricks-data-intelligence-platform.md)
+* ...
 
 ### Databricks Inside
-*  [Databricks의 여정 (오픈 소스에서 데이터 지능형 플랫폼까지)](/lectures/databricks-inside/databricks-history.md)
+* [Databricks의 여정 (오픈 소스에서 데이터 지능형 플랫폼까지)](/lectures/databricks-inside/databricks-history.md)
 * [Apache Spark 구성 요소 아키텍처](/lectures/databricks-inside/spark-components.md)
+* [Apache Spark Runtime](/lectures/databricks-inside/spark-runtime.md)
+* [RDD](/lectures/databricks-inside/rdd.md)
 
-### Azure Databricks (작성 중)
-
-* ...
-* ...
-
-### Databrocks hands-on (작성 중)
-
-* ...
-* ...
 
 ## 🚀 시작하기 (작성 중)
 
@@ -118,15 +116,15 @@
 5.  **권장 런타임**  
     최신 **Databricks Runtime**(LTS 권장)을 사용합니다.
 
-## 📚 참고 리소스 (Resources)
+## 📚 참고 리소스
 
 *   Databricks 공식 문서, 튜토리얼, 블로그(추가 예정)
 
-## 🤝 기여 방법 (Contributing)
+## 🤝 기여 방법 
 
 이슈 제안, 문서/코드 개선은 **Issue** 또는 **Pull Request**로 자유롭게 참여해 주세요. 저장소 거버넌스와 기여 가이드라인은 오픈소스 관례를 따릅니다. 
 
-## 📄 라이선스 (License)
+## 📄 라이선스 
 
 이 프로젝트는 누구나 자유롭게 공유하고 활용할 수 있습니다.
 
