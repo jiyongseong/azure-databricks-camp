@@ -45,7 +45,6 @@
     │  └─ azure-databricks
     ├─ datasets/                 # 샘플 데이터셋
     ├─ scripts/                  # 유틸 스크립트
-    ├─ resources.md              # 외부 참고 리소스 링크 모음
     └─ README.md
 
 ## 🧪 Hands‑on Labs (작성 중)
