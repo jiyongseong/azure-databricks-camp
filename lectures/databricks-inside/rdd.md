@@ -1,4 +1,5 @@
-# RDD(Resilient Distributed Dataset)
+# [Databricks Inside] RDD(Resilient Distributed Dataset)
+
 Apache Spark를 배우다 보면 자연스럽게 등장하는 개념이 있습니다. 바로 **RDD(Resilient Distributed Dataset)** 입니다.
 
 대부분의 사람들이 "요즘은 Spark SQL 혹은 DataFrame을 사용하는데, RDD를 굳이 배울 필요가 있을까?"라는 의문을 갖습니다.
