@@ -69,5 +69,4 @@ Spark Core는 Resilient Distributed Dataset(RDD) 추상화, DAG 스케줄러, �
 
 * 아키텍처 ppt slide : [spark_components](/lectures/databricks-inside/slide-dekcs/Spark_components.pptx)
 
-
-✍️ 2026년 1월 19일 씀.
+✍️ 2026년 1월 15일 씀.
