@@ -87,16 +87,17 @@
 
 ## 🎓 강좌 
 
-### Azure Databricks
-
-* [Azure Databricks Data Intelligence Platform이란?](/lectures/azure-databricks/what-is-azure-databricks-data-intelligence-platform.md)
-
 ### Databricks Inside
+* [Databricks 플랫폼의 주요 구성요소들](/lectures/databricks-inside/databricks-components.md)  
 * [Databricks의 여정 (오픈 소스에서 데이터 지능형 플랫폼까지)](/lectures/databricks-inside/databricks-history.md)
 * [Apache Spark란?](/lectures/databricks-inside/what-is-apache-spark.md)
 * [Apache Spark 구성 요소 아키텍처](/lectures/databricks-inside/spark-components.md)
 * [Apache Spark Runtime](/lectures/databricks-inside/spark-runtime.md)
 * [RDD](/lectures/databricks-inside/rdd.md)
+
+### Azure Databricks
+
+* [Azure Databricks Data Intelligence Platform이란?](/lectures/azure-databricks/what-is-azure-databricks-data-intelligence-platform.md)
 
 ## 🚀 시작하기 (작성 중)
 
